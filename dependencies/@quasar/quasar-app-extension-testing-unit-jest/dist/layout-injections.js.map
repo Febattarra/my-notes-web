@@ -1,0 +1,1 @@
+{"version":3,"file":"layout-injections.js","sourceRoot":"","sources":["../src/helpers/layout-injections.ts"],"names":[],"mappings":";;;AAAA;;GAEG;AACH,SAAgB,iBAAiB;IAC/B,OAAO;QACL,aAAa,EAAE,IAAI;QACnB,MAAM,EAAE;YACN,MAAM,EAAE,EAAE;YACV,KAAK,EAAE,EAAE;YACT,MAAM,EAAE,EAAE;YACV,IAAI,EAAE,EAAE;SACT;KACF,CAAC;AACJ,CAAC;AAVD,8CAUC"}

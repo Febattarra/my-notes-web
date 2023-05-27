@@ -1,0 +1,1 @@
+{"version":3,"file":"ssr-context-mock.js","sourceRoot":"","sources":["../src/helpers/ssr-context-mock.ts"],"names":[],"mappings":";;;AAAA,SAAgB,cAAc;IAC5B,OAAO;QACL,GAAG,EAAE;YACH,OAAO,EAAE,EAAE;SACZ;QACD,GAAG,EAAE;YACH,SAAS,EAAE,GAAG,EAAE,CAAC,SAAS;SAC3B;QACD,GAAG,EAAE,EAAE;KACR,CAAC;AACJ,CAAC;AAVD,wCAUC"}
